@@ -1,1 +1,2 @@
 ucuncu txt 
+ucuncu dosyanın ikinci satırı olusturuldu
